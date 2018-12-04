@@ -25,7 +25,7 @@ SECRET_KEY = 'k3%v9*7b2qbck!^pgr&h^fi8h6t3ruc89i$p-$6&oyzn26a^&q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ntumsa.herokuapp.com']
 
 
 # Application definition
